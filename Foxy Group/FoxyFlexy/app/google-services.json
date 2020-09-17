@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458149990021",
+    "firebase_url": "https://foxygroupe-ab20a.firebaseio.com",
+    "project_id": "foxygroupe-ab20a",
+    "storage_bucket": "foxygroupe-ab20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458149990021:android:bfa7fff299ee970ed3a3ec",
+        "android_client_info": {
+          "package_name": "com.houssem.foxyflexy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458149990021-9pndekpd34nfsltsttk3a8q3g47o7mqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-UvC1-yMMM8H0p-VCdVujZN4pnPMwNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458149990021-9pndekpd34nfsltsttk3a8q3g47o7mqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
